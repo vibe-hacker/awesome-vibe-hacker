@@ -2,6 +2,8 @@
 
 > A curated list of tools, builders, and communities for vibe coders and AI builders — ship products by chatting with AI.
 
+**Want your product listed?** Publish it on the official site first: [vibehacker.com](https://vibehacker.com). This GitHub repo syncs from there — open a PR here only for list fixes (typos, dead links, section moves), not new product submissions.
+
 ## Contents
 
 - [AI Coding Agents & IDEs](#ai-coding-agents--ides)
@@ -97,12 +99,22 @@
 
 ## Contribute
 
-PRs welcome. Please:
+### Add a product (preferred)
 
-1. Keep entries **English**, one line each: `[Name](url) - short description.`
-2. Place tools in the most relevant section (or propose a new section).
-3. Prefer products that vibe coders / AI builders actually use to ship.
-4. No affiliate spam or unrelated crypto/NFT dumps.
+1. Publish / list your product on **[vibehacker.com](https://vibehacker.com)** (directory, reviews, discussions, launches).
+2. This repository **syncs from the site** — once you are live on VibeHacker, the matching entry can land here in a sync pass.
+
+Do **not** open a PR only to add a brand-new product. Site first, repo second.
+
+### Fix the list
+
+PRs are welcome for:
+
+- Typos, broken links, clearer one-line descriptions
+- Moving an existing entry to a better section
+- Removing dead / abandoned tools
+
+Guidelines for any edit: English only; one line each `[Name](url) - short description.`; no affiliate spam.
 
 ## License
 

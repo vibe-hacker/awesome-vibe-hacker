@@ -2,18 +2,26 @@
 
 Thanks for helping grow this list for vibe coders and AI builders.
 
-## Add a product
+## Add a product (preferred path)
 
-1. Fork this repo
-2. Add one markdown line under the best section:
-   `- [Name](https://example.com) - Short description.`
-3. Open a PR with why the tool belongs here
+1. **Publish on the site first:** [https://vibehacker.com](https://vibehacker.com)
+2. This GitHub repo **syncs from vibehacker.com** — new products should not be submitted only via PR here.
+
+## Fix the list (PRs OK)
+
+Use a PR for:
+
+- Typos, dead links, clearer descriptions
+- Section moves for tools already on the list
+- Removing abandoned entries
+
+Format: `- [Name](https://example.com) - Short description.`
 
 ## Guidelines
 
 - English only
-- Real shipping tools / communities (not vaporware)
-- No “Product Hunt for X” clone spam; describe what the product actually does
-- Keep alphabetical order *within a section* when practical; Discovery section may keep community staples near the top
+- Real shipping tools / communities
+- Describe what the product does (no empty hype)
+- Maintainers sync site → repo; contributors go site-first for new listings
 
-Questions: open an issue or email hello@vibehacker.com
+Questions: [hello@vibehacker.com](mailto:hello@vibehacker.com)
