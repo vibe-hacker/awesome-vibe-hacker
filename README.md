@@ -1,4 +1,4 @@
-# Awesome Vibe Hacker [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Vibe Hacker [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![VibeHacker rating and votes](https://vibehacker.com/badge/vibehacker.svg?style=compact)](https://vibehacker.com/products/vibehacker?ref=badge)
 
 > A curated list of tools, builders, and communities for vibe coders and AI builders — ship products by chatting with AI.
 
