@@ -10,7 +10,9 @@
 - [App Builders & Prototyping](#app-builders--prototyping)
 - [Models & Inference](#models--inference)
 - [Design & UI](#design--ui)
+- [Productivity & Meetings](#productivity--meetings)
 - [Backend, Auth & Infra](#backend-auth--infra)
+- [Agent Skills](#agent-skills)
 - [Discovery, Reviews & Launches](#discovery-reviews--launches)
 - [Communities & Learning](#communities--learning)
 - [Contribute](#contribute)
@@ -27,6 +29,10 @@
 - [Cody](https://sourcegraph.com/cody) - Sourcegraph’s AI coding assistant with codebase context.
 - [Tabnine](https://www.tabnine.com) - AI code completion with privacy-focused options.
 - [Replit Agent](https://replit.com) - Build and deploy apps from natural language inside Replit.
+- [Warp](https://www.warp.dev) - AI-powered modern terminal for teams.
+- [Augment](https://www.augmentcode.com) - AI coding platform built for large real-world codebases.
+- [Roo Code](https://github.com/RooCodeInc/Roo-Code) - Open-source VS Code coding agent in the Cline family.
+- [Phind](https://www.phind.com) - AI search and coding assistant built for developers.
 
 ## App Builders & Prototyping
 
@@ -60,6 +66,14 @@
 - [Excalidraw](https://excalidraw.com) - Hand-drawn style diagrams for product thinking.
 - [tldraw](https://tldraw.com) - Infinite canvas; useful for AI + whiteboard workflows.
 
+## Productivity & Meetings
+
+- [Fireflies.ai](https://fireflies.ai) - AI meeting notes, transcription, and summaries.
+- [Otter.ai](https://otter.ai) - AI transcription and meeting assistant.
+- [Descript](https://www.descript.com) - AI video and podcast editor with Overdub.
+- [sync.day](https://sync.day) - Link-based scheduling to find a time that works for everyone.
+- [Superhuman](https://superhuman.com) - Fast email client popular with builders and founders.
+
 ## Backend, Auth & Infra
 
 - [Supabase](https://supabase.com) - Postgres, auth, storage, and edge functions for indie apps.
@@ -72,6 +86,12 @@
 - [Cloudflare Workers](https://workers.cloudflare.com) - Edge compute and AI bindings.
 - [Stripe](https://stripe.com) - Payments for SaaS and usage-based products.
 - [Resend](https://resend.com) - Email API for product transactional mail.
+
+## Agent Skills
+
+- [VibeHacker Skills](https://vibehacker.com/skills) - Directory of agent skills for Claude Code, Claude Desktop, Codex, and Cursor (synced from the site catalog).
+- [Anthropic Skills](https://github.com/anthropics/skills) - Official Anthropic skill examples (documents, frontend design, MCP builder, and more).
+- [OpenAI Codex Skills](https://github.com/openai/skills) - Curated skills used with Codex (deploy, browser, design, observability).
 
 ## Discovery, Reviews & Launches
 
