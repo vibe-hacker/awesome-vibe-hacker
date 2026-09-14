@@ -20,18 +20,19 @@
 ## AI Coding Agents & IDEs
 
 - [Cursor](https://cursor.com) - AI-native code editor built for agentic coding workflows.
-- [Windsurf](https://windsurf.com) - Agentic IDE (formerly Codeium Cascade) for multi-file AI edits.
+- [Devin Desktop](https://devin.ai/desktop) - AI-native IDE (formerly Windsurf) with agent command center from Cognition.
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer inside VS Code, JetBrains, and more.
 - [Claude Code](https://claude.ai/code) - Anthropic’s agentic coding assistant in the terminal and IDE.
+- [Codex](https://github.com/openai/codex) - OpenAI’s coding agent across CLI, IDE, cloud, and GitHub.
 - [Devin](https://devin.ai) - Autonomous software engineer agent from Cognition.
 - [Aider](https://aider.chat) - Open-source AI pair programming in your terminal, git-aware.
 - [Continue](https://continue.dev) - Open-source autopilot for VS Code and JetBrains.
+- [Cline](https://cline.bot) - Open-source Plan/Act coding agent for VS Code, JetBrains, and CLI.
 - [Cody](https://sourcegraph.com/cody) - Sourcegraph’s AI coding assistant with codebase context.
 - [Tabnine](https://www.tabnine.com) - AI code completion with privacy-focused options.
 - [Replit Agent](https://replit.com) - Build and deploy apps from natural language inside Replit.
 - [Warp](https://www.warp.dev) - AI-powered modern terminal for teams.
 - [Augment](https://www.augmentcode.com) - AI coding platform built for large real-world codebases.
-- [Roo Code](https://github.com/RooCodeInc/Roo-Code) - Open-source VS Code coding agent in the Cline family.
 - [Phind](https://www.phind.com) - AI search and coding assistant built for developers.
 
 ## App Builders & Prototyping
