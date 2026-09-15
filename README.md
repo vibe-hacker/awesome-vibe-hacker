@@ -20,6 +20,7 @@
 ## AI Coding Agents & IDEs
 
 - [Cursor](https://cursor.com) - AI-native code editor built for agentic coding workflows.
+- [Google Antigravity](https://antigravity.google) - Google’s agent-first coding platform (desktop, CLI, and IDE) powered by Gemini.
 - [Devin Desktop](https://devin.ai/desktop) - AI-native IDE (formerly Windsurf) with agent command center from Cognition.
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer inside VS Code, JetBrains, and more.
 - [Claude Code](https://claude.ai/code) - Anthropic’s agentic coding assistant in the terminal and IDE.
@@ -39,6 +40,7 @@
 
 - [v0](https://v0.dev) - Vercel’s generative UI for React / Next.js from prompts.
 - [Lovable](https://lovable.dev) - Chat-to-app builder for full-stack web products.
+- [Base44](https://base44.com) - Vibe coding platform for apps, sites, and agents with built-in backend and hosting.
 - [Bolt.new](https://bolt.new) - StackBlitz’s in-browser AI app builder.
 - [Create.xyz](https://www.create.xyz) - Prompt-to-app platform for shipping quickly.
 - [DhiWise](https://www.dhiwise.com) - Design-to-code and AI app generation workflows.
@@ -51,6 +53,7 @@
 - [Anthropic](https://www.anthropic.com) - Claude models for coding, writing, and agents.
 - [Google Gemini](https://deepmind.google/technologies/gemini/) - Multimodal models and Google AI Studio.
 - [Groq](https://groq.com) - Ultra-fast LLM inference.
+- [OpenRouter](https://openrouter.ai) - Unified API across hundreds of models and providers.
 - [Together AI](https://www.together.ai) - Hosted open models and fine-tuning.
 - [Fireworks AI](https://fireworks.ai) - Fast inference for open-source models.
 - [Mistral AI](https://mistral.ai) - Open and commercial frontier models.
