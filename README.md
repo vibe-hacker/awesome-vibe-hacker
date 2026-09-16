@@ -24,6 +24,7 @@
 - [Devin Desktop](https://devin.ai/desktop) - AI-native IDE (formerly Windsurf) with agent command center from Cognition.
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer inside VS Code, JetBrains, and more.
 - [Claude Code](https://claude.ai/code) - Anthropic’s agentic coding assistant in the terminal and IDE.
+- [Gemini CLI](https://github.com/google-gemini/gemini-cli) - Google’s open-source AI agent in the terminal.
 - [Codex](https://github.com/openai/codex) - OpenAI’s coding agent across CLI, IDE, cloud, and GitHub.
 - [Devin](https://devin.ai) - Autonomous software engineer agent from Cognition.
 - [Aider](https://aider.chat) - Open-source AI pair programming in your terminal, git-aware.
