@@ -21,6 +21,9 @@
 
 - [Cursor](https://cursor.com) - AI-native code editor built for agentic coding workflows.
 - [Google Antigravity](https://antigravity.google) - Google’s agent-first coding platform (desktop, CLI, and IDE) powered by Gemini.
+- [Amp](https://ampcode.com) - Frontier coding agent with remote orbs you can run from web, terminal, or phone.
+- [Factory](https://factory.ai) - Enterprise AI coding agents (Droids) across IDE, CLI, Slack, and CI.
+- [Kiro](https://kiro.dev) - Spec-driven agentic IDE and CLI from AWS for structured multi-agent builds.
 - [Devin Desktop](https://devin.ai/desktop) - AI-native IDE (formerly Windsurf) with agent command center from Cognition.
 - [GitHub Copilot](https://github.com/features/copilot) - AI pair programmer inside VS Code, JetBrains, and more.
 - [Claude Code](https://claude.ai/code) - Anthropic’s agentic coding assistant in the terminal and IDE.
